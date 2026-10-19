@@ -1,0 +1,6 @@
+{
+    "name": "Binod Dey",
+    "age": 20,
+    "branch": "BTech CSE",
+    "skills": [["Python", "Java", "C++"], ["HTML", "CSS", "JavaScript"], ["SQL", "Google Cloud Platform"]]
+}
