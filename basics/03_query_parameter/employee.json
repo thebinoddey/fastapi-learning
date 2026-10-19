@@ -1,0 +1,37 @@
+[
+  {
+    "eid": 101,
+    "ename": "Aarav Sharma",
+    "dept": "Engineering",
+    "join_date": "2021-03-15",
+    "salary": 85000
+  },
+  {
+    "eid": 102,
+    "ename": "Maya Patel",
+    "dept": "Human Resources",
+    "join_date": "2020-07-01",
+    "salary": 68000
+  },
+  {
+    "eid": 103,
+    "ename": "Rohan Mehta",
+    "dept": "Finance",
+    "join_date": "2022-01-10",
+    "salary": 72000
+  },
+  {
+    "eid": 104,
+    "ename": "Isha Rao",
+    "dept": "Marketing",
+    "join_date": "2019-11-25",
+    "salary": 76000
+  },
+  {
+    "eid": 105,
+    "ename": "Kabir Singh",
+    "dept": "Operations",
+    "join_date": "2023-05-08",
+    "salary": 64000
+  }
+]
